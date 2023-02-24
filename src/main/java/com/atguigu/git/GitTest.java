@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("pull test!!");
         System.out.println("pull test222222222222!!");
         System.out.println("pull test333333333333!!");
+         System.out.println("我在github上面更新了!!");
     }
 }
